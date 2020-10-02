@@ -1,4 +1,5 @@
 #include <stdio.h>
+#inclide <conio.h>
 int main()
 {
     int number;
